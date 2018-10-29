@@ -1,0 +1,104 @@
+{
+	"customers": [
+		{
+			"name": "ABC Manuf Corp.1",
+			"provider": "VEC",
+			"productId": "us-east2",
+			"payment": "Yes",
+			"partner": "Expert Sys. Pvt. Ltd.",
+			"state": "Success",
+			"amount": 234,
+			"currencyCode": "EUR"
+		},
+		{
+			"name": "ABC Manuf Corp.2",
+			"provider": "VEC",
+			"productId": "us-east1",
+			"payment": "No",
+			"partner": "-",
+			"state": "Warning",
+			"amount": 111,
+			"currencyCode": "EUR"
+		},
+		{
+			"name": "ABC Manuf Corp on GCP",
+			"provider": "GCP",
+			"productId": "us-east1",
+			"payment": "No",
+			"partner": "-",
+			"state": "Warning",
+			"amount": 19,
+			"currencyCode": "EUR"
+		},
+		{
+			"name": "ABC Manuf Corp on AWS",
+			"provider": "AWS",
+			"productId": "us-east1",
+			"payment": "No",
+			"partner": "-",
+			"state": "Warning",
+			"amount": 19,
+			"currencyCode": "EUR"
+		},
+		{
+			"name": "ABC Manuf Corp on AWS",
+			"provider": "AWS",
+			"productId": "us-east1",
+			"payment": "No",
+			"partner": "-",
+			"state": "Warning",
+			"amount": 19,
+			"currencyCode": "EUR"
+		},
+		{
+			"name": "ABC Manuf Corp on AWS",
+			"provider": "AWS",
+			"productId": "us-east1",
+			"payment": "No",
+			"partner": "-",
+			"state": "Warning",
+			"amount": 19,
+			"currencyCode": "EUR"
+		},
+		{
+			"name": "ABC Manuf Corp on AWS",
+			"provider": "AWS",
+			"productId": "us-east1",
+			"payment": "No",
+			"partner": "-",
+			"state": "Warning",
+			"amount": 19,
+			"currencyCode": "EUR"
+		},
+		{
+			"name": "ABC Manuf Corp on AWS",
+			"provider": "AWS",
+			"productId": "us-east1",
+			"payment": "No",
+			"partner": "-",
+			"state": "Warning",
+			"amount": 19,
+			"currencyCode": "EUR"
+		},
+		{
+			"name": "ABC Manuf Corp on AWS",
+			"provider": "AWS",
+			"productId": "us-east1",
+			"payment": "No",
+			"partner": "-",
+			"state": "Warning",
+			"amount": 19,
+			"currencyCode": "EUR"
+		},
+		{
+			"name": "ABC Manuf Corp on AWS",
+			"provider": "AWS",
+			"productId": "us-east1",
+			"payment": "No",
+			"partner": "-",
+			"state": "Warning",
+			"amount": 19,
+			"currencyCode": "EUR"
+		}
+	]
+}
