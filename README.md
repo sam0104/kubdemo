@@ -1,2 +1,2 @@
-# hellowhale
-Simple Docker Demo App
+# kubdemo
+Simple kubernetes demo
